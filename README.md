@@ -4,6 +4,10 @@
 
 - [Good commit messages](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/)
 
+#### App Craft
+
+- [UML](https://sourcemaking.com/uml)
+
 #### Architecture
 
 - [MVVM](https://medium.com/@koromikoneo/how-to-use-a-model-view-viewmodel-architecture-for-ios-46963c67be1b)
@@ -18,3 +22,4 @@
 #### Qualité du code
 
 - [SonarQube](./sonarqube/README.md)
+- [Design Pattern](https://refactoring.guru/design-patterns)
