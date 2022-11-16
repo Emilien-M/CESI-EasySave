@@ -2,6 +2,7 @@
 
 #### Git
 
+- [Démarrer avec Azure Devops](./Azure%20Devops/README.md)
 - [Convention C#](https://learn.microsoft.com/fr-fr/dotnet/csharp/fundamentals/coding-style/coding-conventions)
 - [Good commit messages](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/)
 - [Git flow](https://les-enovateurs.com/gitflow-workflow-git-incontournableprojets-de-qualite)
