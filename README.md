@@ -26,3 +26,7 @@
 
 - [SonarQube](./sonarqube/README.md)
 - [Design Pattern](https://refactoring.guru/design-patterns)
+
+#### Chiffrement
+
+- [Chiffrement d'un fichier en C#](https://learn.microsoft.com/fr-fr/dotnet/standard/security/walkthrough-creating-a-cryptographic-application)
