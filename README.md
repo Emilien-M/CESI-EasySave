@@ -10,6 +10,11 @@
 #### App Craft
 
 - [UML](https://sourcemaking.com/uml)
+  - [Diagramme de cas d'utilisation](https://creately.com/blog/fr/diagrammes/tutoriel-sur-les-diagrammes-de-cas-dutilisation/)
+  - [Diagramme d'activité](https://creately.com/blog/fr/uncategorized-fr/tutorial-diagrammes-de-activite-uml/)
+  - [Diagramme de séquence](https://creately.com/blog/fr/diagrammes/tutoriel-sur-le-diagramme-de-sequence/)
+  - [Diagramme de classe](https://creately.com/blog/fr/uncategorized-fr/tutoriel-sur-les-diagrammes-de-classe/)
+  - [Diagramme de composant](https://creately.com/blog/fr/uncategorized-fr/tutoriel-sur-les-diagrammes-de-composants/)
 
 #### Architecture
 
